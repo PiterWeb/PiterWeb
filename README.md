@@ -4,9 +4,9 @@
 
 - 🎊 Enthusiasmed about web development 
 - 🐍 Interested on Python, Javascript and Go
-- 👷‍♂️ I’m working on my own on a Social Network with React, Express, MongoDB and TailwindCSS
-- 🌱 I’m learning React, Golang and SvelteKit
-- 👬 I’m looking to collaborate on Web projects
+- 🌱 Learning React, Golang and SvelteKit
+- 👷‍♂️ Working on my own to build a Social Network with React, Express, MongoDB and TailwindCSS
+- 👬 Looking to collaborate on Web projects
 - 💬 Ask me if u are stucked with Svelte, Express or using any of my projects 
 - 📫 How to reach me: piterzdev@gmail.com
 
@@ -21,6 +21,7 @@
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://svelte.dev/" title="Svelte"><img src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" alt="Svelte" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://go.dev/" title="Golang"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="21px" height="21px"></a>
 <a href="https://handlebarsjs.com/" title="Handlebars"><img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="Handlebars" width="21px" height="21px"></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
