@@ -8,6 +8,5 @@
 - 💬 Ask me if u are stucked with Svelte, Express or using any of my projects 
 - 📫 How to reach me: piterzdev@gmail.com
 
-<a href="https://app.daily.dev/PiterDev"><img src="https://github.com/PiterWeb/PiterWeb/blob/main/devcard.svg" width="400" alt="PiterDev's Dev Card"/></a>
-
+<a href="https://app.daily.dev/PiterDev"><img src="https://api.daily.dev/devcards/08c53ac1806041738a48f887681f2f77.png?r=8cs" width="400" alt="PiterDev's Dev Card"/></a>
 
