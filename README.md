@@ -7,7 +7,7 @@
 - 🌱 Learning React, Golang and SvelteKit
 - 👷‍♂️ Working on my own to build a Social Network with React, Express, MongoDB and TailwindCSS
 - 👬 Looking to collaborate on Web projects
-- 💬 Ask me if u are stucked with Svelte, Express or using any of my projects 
+- 💬 Ask me about Svelte, Express or EJS
 - 📫 How to reach me: piterzdev@gmail.com
 
 ### Technologies Stack : 
@@ -30,3 +30,4 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piterweb&show_icons=true&locale=en&layout=compact" alt="piterweb" /></p>
