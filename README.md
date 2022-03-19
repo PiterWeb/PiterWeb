@@ -2,12 +2,12 @@
 
 <a href="https://app.daily.dev/PiterDev"><img src="https://api.daily.dev/devcards/08c53ac1806041738a48f887681f2f77.png?r=8cs" width="256" align="right" alt="PiterDev's Dev Card"/></a>
 
-- 🎊 Enthusiasmed about web development 
+- 🎊 Enthusiasmed about Web development 
 - 🐍 Interested on Python, Javascript and Go
-- 🌱 Learning React, Golang and SvelteKit
-- 👷‍♂️ Working on my own to build a Social Network with React, Express, MongoDB and TailwindCSS
+- 🌱 Learning React and Golang
+- 👷‍♂️ Working on my own to build a Web on which you will discover & explore songs 🎶
 - 👬 Looking to collaborate on Web projects
-- 💬 Ask me about Svelte, Express or EJS
+- 💬 Ask me about Svelte, Express, MongoDB(Go) or EJS
 - 📫 How to reach me: piterzdev@gmail.com
 
 ### Technologies Stack : 
