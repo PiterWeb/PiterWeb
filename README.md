@@ -5,7 +5,7 @@
 - 🎊 Enthusiasmed about Web development 
 - 🐍 Interested on Python, Javascript and Go
 - 🌱 Learning React and Golang
-- 👷‍♂️ Working on my own to build a Web on which you will discover & explore songs 🎶
+- 👷‍♂️ Working on my own to build a Web to search, discover & explore songs: <a href="https://music-info.vercel.app/">Music Info</a> 🎶
 - 👬 Looking to collaborate on Web projects
 - 💬 Ask me about Svelte, Express, MongoDB(Go) or EJS
 - 📫 How to reach me: piterzdev@gmail.com
