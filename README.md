@@ -3,17 +3,18 @@
 <a href="https://app.daily.dev/PiterDev"><img src="https://api.daily.dev/devcards/08c53ac1806041738a48f887681f2f77.png?r=8cs" width="256" align="right" alt="PiterDev's Dev Card"/></a>
 
 - 🎊 Enthusiasmed about Web development 
-- 🐍 Interested on Python, Javascript and Go
-- 🌱 Learning React and Golang
-- 👷‍♂️ Working on my own to build a Web to explore & discover songs: <a href="https://music-info.vercel.app/">Music Info</a> 🎶
+- ⌨️ Interested on Go, Typescript, and Javascript
+- 🌱 Learning React + Typescript and Golang
+- 👷‍♂️ Working everyday on my projects
 - 👬 Looking to collaborate on Web projects
-- 💬 Ask me about Svelte, Express, MongoDB(Go) or EJS
+- 💬 You can ask me about some JavaScript Frameworks and Golang
 - 📫 How to reach me: piterzdev@gmail.com
 
 ### Technologies Stack : 
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"> <img src="https://img.icons8.com/color/344/typescript.png" alt="Typescript" width="21px" height="21px"/></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
