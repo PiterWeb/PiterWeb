@@ -3,11 +3,11 @@
 <a href="https://app.daily.dev/PiterDev"><img src="https://api.daily.dev/devcards/08c53ac1806041738a48f887681f2f77.png?r=8cs" width="256" align="right" alt="PiterDev's Dev Card"/></a>
 
 - 🎊 Enthusiasmed about Web development 
-- ⌨️ Interested on Deno, Flutter and Go
+- ⌨️ Interested on TypeScript, Dart and Go
 - 🌱 Learning Flutter
 - 👷‍♂️ Working everyday on my projects
 - 👬 Looking to collaborate on Web projects
-- 💬 You can ask me about some JavaScript Frameworks and Golang
+- 💬 You can ask me about popular JavaScript Frameworks and Golang
 - 📫 How to reach me: piterzdev@gmail.com
 
 ### Technologies Stack : 
