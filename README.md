@@ -7,7 +7,7 @@
 - 🌱 Learning Flutter
 - 👷‍♂️ Working everyday on my projects
 - 👬 Looking to collaborate on Web projects
-- 💬 You can ask me about popular JavaScript Frameworks and Golang
+- 💬 You can ask me about JavaScript/Typescript or Golang
 - 📫 How to reach me: piterzdev@gmail.com
 
 ### Technologies Stack : 
