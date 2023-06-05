@@ -35,4 +35,4 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piterweb&show_icons=true&locale=en" alt="piterweb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piterweb&langs_count=6&show_icons=true&locale=en" alt="piterweb" /></p>
