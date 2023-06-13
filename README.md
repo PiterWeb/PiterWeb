@@ -27,10 +27,12 @@
 <a href="https://flutter.dev/" title="Flutter"><img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://go.dev/" title="Golang"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="21px" height="21px"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"/></a>
 <a href="https://gofiber.io/" title="Fiber"><img src="https://gofiber.io/assets/images/logo.svg" alt="Fiber" width="21px" height="21px"></a>
 <a href="https://ejs.co/" title="EJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="EJS" width="21px" height="21px"></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
+<a href="https://www.mysql.com/" title="SQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="SQL" width="21px" height="21px"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
