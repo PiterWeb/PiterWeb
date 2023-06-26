@@ -23,12 +23,11 @@
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next" width="21px" height="21px"></a>
 <a href="https://svelte.dev/" title="Svelte & SvelteKit"><img src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" alt="Svelte" width="21px" height="21px"></a>
-<a href="https://dart.dev/" title="Dart"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Dart" width="21px" height="21px"></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" width="21px" height="21px"></a>
+<!--<a href="https://dart.dev/" title="Dart"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Dart" width="21px" height="21px"></a>-->
+<a href="https://flutter.dev/" title="Flutter"><img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" width="21px" height="21px"></a> 
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://go.dev/" title="Golang"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="21px" height="21px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"/></a>
-<a href="https://gofiber.io/" title="Fiber"><img src="https://gofiber.io/assets/images/logo.svg" alt="Fiber" width="21px" height="21px"></a>
 <a href="https://ejs.co/" title="EJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="EJS" width="21px" height="21px"></a>
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
