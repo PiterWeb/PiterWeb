@@ -17,10 +17,4 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-
-  weekly-development-breakdown:
-    runs-on: ubuntu-latest
-    steps:
-      - name: waka-box
-        uses: matchai/waka-box@v5.0.0
             
