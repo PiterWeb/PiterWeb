@@ -1,6 +1,6 @@
 ## About me 📘
 
-<a href="https://app.daily.dev/PiterDev"><img src="https://api.daily.dev/devcards/08c53ac1806041738a48f887681f2f77.png?r=8cs" width="256" align="right" alt="PiterDev's Dev Card"/></a>
+<a href="https://app.daily.dev/piterdev"><img src="https://api.daily.dev/devcards/v2/eRJSGm5Ni.png?type=default&r=jl0" width="356" alt="PiterDev's Dev Card"/></a>
 
 - 🎊 Enthusiasmed about Web development 
 - ⌨️ Interested on Rust, Elixir, Typescript and Go
