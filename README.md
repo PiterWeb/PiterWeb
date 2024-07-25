@@ -3,8 +3,8 @@
 <a href="https://app.daily.dev/piterdev"><img src="https://api.daily.dev/devcards/v2/eRJSGm5Ni.png?type=default&r=jl0" width="356" alt="PiterDev's Dev Card"/></a>
 
 - 🎊 Enthusiasmed about Web development 
-- ⌨️ Interested on Rust, Elixir, Typescript and Go
-- 🌱 Learning Elixir
+- ⌨️ Interested on Rust, Typescript and Go
+- 🌱 Learning Threejs
 - 👷‍♂️ Working everyday on my projects
 - 👬 Looking to collaborate on Web projects
 - 💬 You can ask me about JavaScript/Typescript or Golang
