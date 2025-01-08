@@ -7,7 +7,7 @@
 - 👬 Looking to collaborate on Web projects
 - 💬 You can ask me about JavaScript/Typescript or Golang
 - 📫 How to reach me: piterzdev@gmail.com
-- 🎶 I really enjoy music, I listen to songs of all genres and from all over the world: Russia, Albany, Germany, Korea, ...
+- 🎶 I really enjoy music, I listen to songs of all genres and from all over the world: Russia, Albany, Germany, Korea, Japan ...
 - 🗣 I am passionate about language learning 🇪🇸 🇧🇷 🇷🇺 🇬🇧
 
 ### Technologies Stack : 
