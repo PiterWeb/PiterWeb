@@ -1,8 +1,8 @@
 ## About me 📘
 
 - 🎊 Enthusiasmed about Web development 
-- ⌨️ Interested on Rust, Typescript and Go
-- 🌱 Learning Threejs
+- ⌨️ Interested on WebRTC, Rust, Typescript and Go
+- 🌱 Learning Elixir
 - 👷‍♂️ Working everyday on my projects
 - 👬 Looking to collaborate on Web projects
 - 💬 You can ask me about JavaScript/Typescript or Golang
