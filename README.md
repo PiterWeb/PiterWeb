@@ -2,7 +2,7 @@
 
 - 🎊 Enthusiasmed about Web development 
 - ⌨️ Interested on WebRTC, Rust, Typescript and Go
-- 🌱 Learning Elixir
+- 🌱 Learning Ocaml and Swift
 - 👷‍♂️ Working everyday on my projects
 - 👬 Looking to collaborate on Web projects
 - 💬 You can ask me about JavaScript/Typescript or Golang
