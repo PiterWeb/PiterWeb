@@ -2,10 +2,9 @@
 
 - 🎊 Enthusiasmed about Web development 
 - ⌨️ Interested on WebRTC, Rust, Typescript and Go
-- 🌱 Learning Ocaml and Swift
+- 🌱 Always learning a cool techonology or programming language
 - 👷‍♂️ Working everyday on my projects
-- 👬 Looking to collaborate on Web projects
-- 💬 You can ask me about JavaScript/Typescript or Golang
+- 👬 Looking to collaborate on open source projects
 - 📫 How to reach me: piterzdev@gmail.com
 - 🎶 I really enjoy music, I listen to songs of all genres and from all over the world: Russia, Albania, Germany, Korea, Italy ...
 - 🗣 I am passionate about language learning 🇪🇸 🇧🇷 🇷🇺 🇬🇧
